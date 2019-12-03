@@ -9,4 +9,4 @@ Also added best score and reset button.
 
 Here is timelaps of example.
 
-![](SnakeTimeLaps.mov)
+![](snakeGif.gif)
